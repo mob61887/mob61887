@@ -8,6 +8,7 @@
 - Hi, I'm a lightning fast service based backend called [Atelier Back End System Redesign](https://github.com/Atelier-System-Redesign/Products-SDC/blob/main/README.md)
 
 - Hi, I'm an Education Management System. I take the tedium out of teaching. You can call me [SkoolHub](https://github.com/skoolhub-tech/SkoolHub)
+  ![Overview of Skoolhub](SkoolHubDemo-ezgif.com-video-to-gif-converter)
 
 <h3 align="left">Technologies:</h3>
 <p align="left">

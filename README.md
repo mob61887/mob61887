@@ -3,6 +3,8 @@
 
 - Hi, I'm a component serving as a piece of a larger E-Commerce application. They call me [Atelier Front End Product Detail Component](https://github.com/Atelier-front-end-Product-Detail/Atelier-front-end-Product-Detail-component)
 
+  ![Overview of Atelier Front End Product Detail Component](Overview-ezgif.com-video-to-gif-converter.gif)
+
 - Hi, I'm a lightning fast service based backend called [Atelier Back End System Redesign](https://github.com/Atelier-System-Redesign/Products-SDC/blob/main/README.md)
 
 - Hi, I'm an Education Management System. I take the tedium out of teaching. You can call me [SkoolHub](https://github.com/skoolhub-tech/SkoolHub)

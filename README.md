@@ -1,15 +1,6 @@
 <h1 align="center">Welcome, I'm Michael O'Brien</h1>
 <h3 align="center">A passionate Full Stack Engineer with a background in Logistics plus a love for dogs and Dungeons & Dragons</h3>
 
-- Hi, I'm a component serving as a piece of a larger E-Commerce application. They call me [Atelier Front End Product Detail Component](https://github.com/Atelier-front-end-Product-Detail/Atelier-front-end-Product-Detail-component)
-
-  ![Overview of Atelier Front End Product Detail Component](Overview-ezgif.com-video-to-gif-converter.gif)
-
-- Hi, I'm a lightning fast service based backend called [Atelier Back End System Redesign](https://github.com/Atelier-System-Redesign/Products-SDC/blob/main/README.md)
-
-- Hi, I'm an Education Management System. I take the tedium out of teaching. You can call me [SkoolHub](https://github.com/skoolhub-tech/SkoolHub)
-  ![Overview of Skoolhub](SkoolHubDemo-ezgif.com-video-to-gif-converter.gif)
-
 <h3 align="left">Technologies:</h3>
 <p align="left">
 <h3>Languages</h3>
@@ -39,6 +30,15 @@
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+
+- Hi, I'm a component serving as a piece of a larger E-Commerce application. They call me [Atelier Front End Product Detail Component](https://github.com/Atelier-front-end-Product-Detail/Atelier-front-end-Product-Detail-component)
+
+  ![Overview of Atelier Front End Product Detail Component](Overview-ezgif.com-video-to-gif-converter.gif)
+
+- Hi, I'm a lightning fast service based backend called [Atelier Back End System Redesign](https://github.com/Atelier-System-Redesign/Products-SDC/blob/main/README.md)
+
+- Hi, I'm an Education Management System. I take the tedium out of teaching. You can call me [SkoolHub](https://github.com/skoolhub-tech/SkoolHub)
+  ![Overview of Skoolhub](SkoolHubDemo-ezgif.com-video-to-gif-converter.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
